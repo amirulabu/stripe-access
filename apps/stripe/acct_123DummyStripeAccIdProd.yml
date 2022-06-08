@@ -1,8 +1,8 @@
-# DummyOrg Prod
 roles:
   - role: admin
     users:
       - admin@example.com
+      - kilee@seekasia.com
   - role: analyst
     users:
       - analyst@example.com
