@@ -1,11 +1,12 @@
-# DummyOrg Prod
 roles:
   - role: admin
     users:
       - admin@example.com
+      - requester001@mail.com
   - role: analyst
     users:
       - analyst@example.com
+      - requester001@mail.com
   - role: view_only
     users:
       - view@seekasia.com
