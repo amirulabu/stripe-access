@@ -1,8 +1,8 @@
-# DummyOrg Prod
 roles:
   - role: admin
     users:
       - admin@example.com
+      - requester006@mail.com
   - role: analyst
     users:
       - analyst@example.com
